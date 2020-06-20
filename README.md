@@ -10,3 +10,4 @@ Modules needed:
 npm i
 npm i discord.js
 npm i quick.db
+[![Run on Repl.it](https://repl.it/badge/github/daantje1/ModMail)](https://repl.it/github/daantje1/ModMail)
